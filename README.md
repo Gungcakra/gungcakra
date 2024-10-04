@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate as **Web Developer**
 
-- 👨‍💻 My Portfolio Website [https://gungcakra.github.io/Portfolio/](https://gungcakra.github.io/Portfolio/)
+- 👨‍💻 My Portfolio Website [https://gungcakra.github.io/Portfolio/](https://cakra-portfolio.my.id/)
 
 - 💬 Ask me about **Anything**
 
