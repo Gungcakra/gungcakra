@@ -6,29 +6,16 @@
 
 - 👯 I’m looking to collaborate as **Web Developer**
 
-- 👨‍💻 My Portfolio Website [Click Here](https://cakra-portfolio.my.id/)
+- 👨‍💻 My Portfolio Website [https://cakra-portfolio.my.id/](https://cakra-portfolio.my.id/)
 
 - 💬 Ask me about **Anything**
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_gung.cakra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cakra-jaya-a8b484303) 
 
 # 💻 Tech Stack:
-
-## Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,jquery,bootstrap,laravel,mysql,react,vite,express,electron,vercel,nodejs&theme=dark)](https://skillicons.dev)
-
-
-
-## Mobile Development(Build With CAPACITOR)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,bootstrap,react,vite,vercel,nodejs,androidstudio&theme=dark)](https://skillicons.dev)
-
-
-
-## Tools
-[![My Skills](https://skillicons.dev/icons?i=figma,postman&theme=dark)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,jquery,bootstrap,laravel,mysql,react,vite,express,electron,vercel,nodejs,androidstudio,figma,postman&theme=light)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
