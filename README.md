@@ -19,8 +19,12 @@
 ## Web Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,jquery,bootstrap,laravel,mysql,react,vite,express,electron,vercel,nodejs&theme=dark)](https://skillicons.dev)
 
+
+
 ## Mobile Development(Build With CAPACITOR)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,bootstrap,react,vite,vercel,nodejs,androidstudio&theme=dark)](https://skillicons.dev)
+
+
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=figma,postman&theme=dark)](https://skillicons.dev)
