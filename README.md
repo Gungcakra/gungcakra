@@ -15,7 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_gung.cakra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cakra-jaya-a8b484303) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,jquery,bootstrap,laravel,mysql,react,vite,express,electron,vercel,nodejs,androidstudio,figma,postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,jquery,bootstrap,laravel,mysql,react,vite,express,electron,vercel,nodejs,androidstudio,figma,postman&theme=dark)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gungcakra&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gungcakra&theme=dark&hide_border=true)<br/>
