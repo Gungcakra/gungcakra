@@ -13,7 +13,7 @@
 
 ## 🌐 Connect With Me:
 ![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram1.png (https://instagram.com/_gung.cakra))
-[linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (https://linkedin.com/in/cakra-jaya-a8b484303))
+![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn1.png (https://linkedin.com/in/cakra-jaya-a8b484303))
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,jquery,bootstrap,laravel,mysql,react,vite,express,electron,vercel,nodejs,androidstudio,figma,postman&theme=dark)](https://skillicons.dev)
