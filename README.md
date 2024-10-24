@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUfGDnAp10_8MkEu1cb5SSz_2iWyFqSg-lE9vOOMew8qRfjCNaibXGC8bYIxyDlsbAM82qf6QSW1aZqMrom5nNW66dcKWPp5liYNT3Ehy1qsgYp2pCwb8lMb-HGbwt-CMTEgF5-XLsxM8/s1600/image1.gif)](https://gungcakra.github.io/Portfolio/)
+[![MasterHead](banner.webp)](https://cakra-portfolio.my.id)
 <h1 align="center">Hi 👋, I'm Cakra Jaya</h1>
 <h3 align="center">Web Developer</h3>
 
