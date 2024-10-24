@@ -19,9 +19,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gungcakra&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gungcakra&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gungcakra&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Gungcakra&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gungcakra&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gungcakra&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gungcakra&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
