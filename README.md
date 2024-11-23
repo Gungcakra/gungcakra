@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer</h3>
 <p>I am a student at ITB Stikom Bali majoring in Information Systems and a Web Developer at TempatKita Software, I like learning new things to increase my skills and knowledge</p>
 
-- 🌱 I’m currently learning **Mantine UI**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate as **Web Developer**
 
