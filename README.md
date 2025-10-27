@@ -1,7 +1,7 @@
 [![MasterHead](banner.webp)](https://cakra-portfolio.my.id)
 <h1 align="center">Hi 👋, I'm Cakra Jaya</h1>
 <h3 align="center">Web Developer</h3>
-<p>I am a student at ITB Stikom Bali majoring in Information Systems and a Web Developer at TempatKita Software, I like learning new things to increase my skills and knowledge</p>
+
 - 👨‍💻 My Portfolio Website https://cakra-portfolio.my.id/
 
 
