@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg](https://raw.githubusercontent.com/livewire/livewire/c7539589d5af82691bef17da17ce4e289269f8d9/art/logo.svg)" height="40" alt="nextjs logo"  />
+  <img src="https://raw.githubusercontent.com/livewire/livewire/c7539589d5af82691bef17da17ce4e289269f8d9/art/logo.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
