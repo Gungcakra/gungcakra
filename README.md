@@ -25,6 +25,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/livewire/livewire/c7539589d5af82691bef17da17ce4e289269f8d9/art/logo.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
@@ -36,10 +38,10 @@
   <img src="https://skillicons.dev/icons?i=astro" height="40" alt="jquery logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://cdn.brandfetch.io/idzGRYC3u5/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="expo logo"  />
+  <img width="12" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/livewire/livewire/c7539589d5af82691bef17da17ce4e289269f8d9/art/logo.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
